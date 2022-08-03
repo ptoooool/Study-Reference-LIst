@@ -4,15 +4,18 @@
 &nbsp;
 
 ## :blue_book: Spring & JPA 
-
+- Spring boot & JPA Study Arrangement
 &nbsp;
 
 ## :closed_book: DB
-
+- Tunning
+- Theory
 &nbsp;
 
 ## :notebook: Language
-
+- Java
+- Kotlin
+- JavaScript
 &nbsp;
 
 ## :books: Architecture
